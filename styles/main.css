@@ -1,0 +1,36 @@
+header {
+  background-color: #348ceb;
+  margin: 0 auto;
+  height: 16vh;
+  overflow: hidden;
+  position: relative;
+}
+
+h1 {
+  color: hsla(0, 0%, 100%, 0.9);
+  font-weight: bold;
+  text-align: center;
+}
+
+form {
+
+  height: 100px;
+  width: 50%;
+  left: 25%;
+  text-align: center;
+  position: relative;
+}
+
+
+ul {
+  width: 50%;
+  left: 25%;
+  position: absolute;
+  text-align: center;
+}
+
+li {
+  width: 50%;
+  margin: 0 auto;
+  text-align: center;
+}
